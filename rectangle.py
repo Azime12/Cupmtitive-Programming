@@ -1,6 +1,5 @@
-def rectagleBoard():
-     n=int(input("n:"))
-     m=int(input("m:"))
-    domonio=int((n*m)/2)
-    return domonio
-print(rectagleBoard())
+n=int(input(""))
+m=int(input(""))
+domonio=int((n*m)/2)
+print(domonio)
+    
